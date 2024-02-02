@@ -1,0 +1,5 @@
+package negocio.interfacesEnums;
+
+public enum GeneroLib {
+	ACCION,COMEDIA,POLICIAL,TERROR,CFICCION,JUVENIL,ROMANCE,POESIA,SINREGISTRAR;
+}
